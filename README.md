@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vishnu3522
+- 👋 Hi, I’m @Vishnu Kumar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJs,Firebase,Django
+- 🌱 I’m currently learning Mern stack
 - 📫 How to reach me https://www.linkedin.com/in/vishnu-kumar-07424120a/
 
 <!---
